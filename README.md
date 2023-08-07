@@ -6,3 +6,4 @@ Learned a lot while doing it(at the most basic level, but still).
 - JWT tokens
 - Migrations
 - Entity Framework
+- SQL server
